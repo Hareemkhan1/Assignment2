@@ -1,0 +1,12 @@
+    	#capital {
+			display: block;
+		}
+		.hide {
+			display: none;
+		}
+		#first-paragraph:hover {
+			background-color: yellow;
+		}
+		#second-paragraph:active {
+			background-color: green;
+		}
